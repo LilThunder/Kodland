@@ -1,5 +1,5 @@
 # Kodland
 Pyrhon pro
-El diccionario de los pqñajos
+Pruebas del curso
 
     
